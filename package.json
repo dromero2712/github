@@ -1,0 +1,21 @@
+{
+  "name": "mi-proyecto-server",
+  "version": "1.0.0",
+  "description": "\"github\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dromero2712/github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dromero2712/github/issues"
+  },
+  "homepage": "https://github.com/dromero2712/github#readme"
+}
